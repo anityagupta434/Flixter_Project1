@@ -14,4 +14,6 @@
 - [x] Allow movie video trailers to be played using embedded Youtube
 
 #### GIF Walkthrough:
-![flixter](https://user-images.githubusercontent.com/66381939/168674979-122f4dda-bab1-4235-8547-aa51680cd3e5.jpg)
+
+![Flixter-1](https://user-images.githubusercontent.com/66381939/168675311-65919b57-0f16-4457-ade0-5aae1fe54943.gif)
+![flixter](https://user-images.githubusercontent.com/66381939/168675334-05cbc3f9-e71c-4477-a35a-1b29bab32881.jpg)
