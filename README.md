@@ -16,4 +16,4 @@
 #### GIF Walkthrough:
 
 ![Flixter-1](https://user-images.githubusercontent.com/66381939/168675311-65919b57-0f16-4457-ade0-5aae1fe54943.gif)
-![flixter](https://user-images.githubusercontent.com/66381939/168675334-05cbc3f9-e71c-4477-a35a-1b29bab32881.jpg)
+![walkthrough_land](https://user-images.githubusercontent.com/66381939/168676104-5e40279b-2c96-459d-a42b-1df181ce120e.gif)
