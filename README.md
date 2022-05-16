@@ -1,4 +1,4 @@
-## Flix Part 2
+## Flixter
 
 #### CORE FEATURES:
 - [x] User can view a list of current movies from The Movie Database API.
